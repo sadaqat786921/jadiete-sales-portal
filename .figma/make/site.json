@@ -1,7 +1,11 @@
 {
-  "title": "Jadeite Systems · Office Admin",
-  "description": "Jadeite Glazing — Office Admin platform: enquiries, sales, jobs, surveys, orders, deliveries, installations, aftercare, messages and payments.",
+  "title": "Jadeite Systems · Sales portal",
+  "description": "Jadeite Glazing — Sales portal for salespeople: my day, pipeline, appointments and tasks, Framepoint quotes, won jobs, messages and performance.",
   "language": "en-GB",
-  "robots": { "index": false },
-  "icons": { "icon": "favicon.png" }
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "favicon.png"
+  }
 }

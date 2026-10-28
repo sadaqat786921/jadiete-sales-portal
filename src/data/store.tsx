@@ -1,4 +1,4 @@
-// Shared, in-memory state so every Office Admin flow updates the whole platform.
+// Shared, in-memory state so every Sales portal step updates the whole platform.
 import React, { createContext, useContext, useEffect, useMemo, useState } from 'react';
 
 const KEY = 'jadeite-sales-portal-demo-v1';

@@ -1,4 +1,4 @@
-// Sample data for the Jadeite Systems Office Admin prototype.
+// Sample data for the Jadeite Systems Sales portal prototype.
 // All names, numbers and addresses are invented for demonstration.
 
 export const IMG = {
